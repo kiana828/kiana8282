@@ -1,9 +1,11 @@
 <!-- GitHub Profile README for kiana828 --><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b102b,50:6f42c1,100:c4a7ff&height=190&section=header&text=Kiana%20Gholamnejad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Grow&descAlignY=57&descSize=17" alt="Purple header banner" />  <h3>Computer Science Student | Python Developer | Exploring AI & Web Development</h3>  <p>
-    <a href="https://github.com/kiana828">
-      <img src="https://img.shields.io/badge/GitHub-kiana828-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-c4a7ff?style=for-the-badge" alt="Continuous learning" />
-  </p></div>---
+<p align="center">
+  <a href="https://github.com/kiana828">
+    <img src="https://img.shields.io/badge/GitHub-kiana828-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-c4a7ff?style=for-the-badge" alt="Continuous learning" />
+</p>
+</div>
 
 ✨ About Me
 
